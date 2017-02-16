@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/TreAhmad3/liri-node-app/issues"
   },
-  "homepage": "https://github.com/TreAhmad3/liri-node-app#readme"
+  "homepage": "https://github.com/TreAhmad3/liri-node-app#readme",
+  "dependencies": {
+    "moviedb": "^0.2.7"
+  }
 }
